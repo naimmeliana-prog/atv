@@ -1,0 +1,6 @@
+{
+  "name": "ATV Estudio Pro — Auxiliar Técnico Veterinario",
+  "description": "Plataforma de estudio para Auxiliares Técnicos Veterinarios (ATV): módulos temáticos, cuestionarios tipo test, simulacros cronometrados, glosario interactivo, seguimiento de progreso y comparador de academias en Valencia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
